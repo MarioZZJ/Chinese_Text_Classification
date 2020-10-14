@@ -1,0 +1,26 @@
+# automatically inserted by Jetbrains
+.idea/
+
+# sample data
+# data files too big to be uploaded
+/data/raw/*
+
+/data/ci/*
+!/data/ci/ci.song.0.json
+
+/data/classical/*
+!/data/classical/c_list_1.txt
+
+/data/database/*
+
+/data/journal/*
+!/data/journal/j_list_1.txt
+
+/data/news/*
+!/data/news/n_list_67.txt
+
+/data/poet.song/*
+!/data/poet.song/poet.song.1000.json
+
+/data/poet.tang/*
+!/data/poet.tang/poet.tang.0.json
