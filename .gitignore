@@ -1,5 +1,5 @@
 # automatically inserted by Jetbrains
-.idea/
+.idea/*
 
 # sample data
 # data files too big to be uploaded
@@ -24,3 +24,4 @@
 
 /data/poet.tang/*
 !/data/poet.tang/poet.tang.0.json
+debug.log
