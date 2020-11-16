@@ -25,3 +25,4 @@
 /data/poet.tang/*
 !/data/poet.tang/poet.tang.0.json
 debug.log
+*.char
